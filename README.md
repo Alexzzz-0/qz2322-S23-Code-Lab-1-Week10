@@ -1,1 +1,2 @@
-# qz2322-S23-Code-Lab-1-Week10
+# CodeLab-Week8
+A facial features diversification game
